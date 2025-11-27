@@ -1,6 +1,6 @@
 # EXPERIMENT – 3: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### Register No.: 212222083004
-### Name.: LOKESH KUMAR P
+### Register No.: 212222080024
+### Name.: JEEVA A
 
 ## Aim: 
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. Using Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting techniques.
